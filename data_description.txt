@@ -1,0 +1,20 @@
+Variables Description - Data Type
+
+id a notation for a house Numeric
+date Date house was sold String
+price Price is prediction target Numeric
+bedrooms Number of Bedrooms/House Numeric
+bathrooms Number of bathrooms/bedrooms Numeric
+sqftliving square footage of the home Numeric sqftlot square footage of the lot Numeric
+floors Total floors (levels) in house Numeric
+waterfront House which has a view to a waterfront Numeric
+view Has been viewed Numeric
+condition How good the condition is ( Overall ). 1 indicates worn out property and 5 excellent. Numeric
+grade overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent. Numeric
+sqftabove square footage of house apart from basement Numeric sqftbasement square footage of the basement Numeric
+yrbuilt Built Year Numeric yrrenovated Year when house was renovated Numeric
+zipcode zip Numeric
+lat Latitude coordinate Numeric
+long Longitude coordinate Numeric
+sqftliving15 Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area Numeric 
+sqftlot15 lotSize area in 2015(implies-- some renovations) Numeric
